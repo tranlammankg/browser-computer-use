@@ -1,0 +1,27 @@
+{
+  "name": "browser-computer-use",
+  "version": "1.0.0",
+  "description": "Visual, OS-level browser automation mimicking Claude Computer Use with natural Bezier mouse curves and human typing cadence to bypass bot detection",
+  "main": "demo.py",
+  "scripts": {
+    "test": "python3 -m unittest discover -s tests",
+    "install-skill": "node scripts/install-skill.js",
+    "demo": "python3 demo.py"
+  },
+  "keywords": [
+    "browser",
+    "computer-use",
+    "automation",
+    "claude-style",
+    "anti-bot",
+    "stealth",
+    "macos",
+    "ai-agent"
+  ],
+  "author": "Man Tran <tranlammankg@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tranlammankg/browser-computer-use.git"
+  }
+}
